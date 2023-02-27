@@ -1,3 +1,6 @@
 1) Помимо коммитов, которые есть в ветке demo, в ветке master появились новые коммиты,
  которые связаны с моими изменениями в ветке
-2)
+2)  Merge branch 'boots' into boots_buttons
+    Merge branch 'buttons' into boots_buttons
+    Merge branch 'boots' into boots_button
+    add hometask.txt
